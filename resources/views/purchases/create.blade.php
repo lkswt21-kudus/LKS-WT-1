@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-header">
                     <div class="row">
-                        <div class="col my-auto">Create Product</div>
+                        <div class="col my-auto">Create Purchase</div>
                         <!-- <div class="col text-right">
                             <a href="{{ route('users.create') }}" class="btn btn-primary">Add</a>
                         </div> -->
